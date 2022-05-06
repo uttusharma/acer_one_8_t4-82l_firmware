@@ -1,4 +1,4 @@
-# acer_one_8_t4-82l_firmware
+# Acer One 8 T4-82L Firmware
 
 Sp Flashable
 
